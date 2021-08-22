@@ -1,0 +1,9 @@
+#area {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    background-color: rgb(234, 239, 247);
+  }
+  .item{
+width: 20%;
+  }
